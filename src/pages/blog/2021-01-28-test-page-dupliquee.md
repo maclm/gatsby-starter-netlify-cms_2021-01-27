@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Nouvelle page, noveau départ !
-date: m210128_1011T10:12:10.000Z
+title: Nouvelle page, nouveau départ
+date: 2021-01-28T10:12:10.000Z
 description: page créée à partir d'une copie de 2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md
 featuredpost: true
 featuredimage: 
